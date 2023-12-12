@@ -18,3 +18,5 @@ Let's assume your project structure looks like this:
   App.js
   index.js
 
+  Here we called first product title via headerjs.
+
