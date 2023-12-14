@@ -20,4 +20,8 @@ Let's assume your project structure looks like this:
 
 Here we called first product title via headerjs.
 
-After that We can add Features and proudct js for information of the product.
+After that We can add Features and proudct js for information of the product. 
+
+Then create a CallToAction.js file and create a section.
+
+
