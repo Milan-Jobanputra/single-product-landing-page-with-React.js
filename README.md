@@ -24,4 +24,6 @@ After that We can add Features and proudct js for information of the product.
 
 Then create a CallToAction.js file and create a section.
 
+Now Import all files in APP.JS And insert product details. 
+
 
