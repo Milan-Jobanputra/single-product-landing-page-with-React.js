@@ -26,6 +26,8 @@ Then create a CallToAction.js file and create a section.
 
 Now Import all files in APP.JS And insert product details. 
 
+then create Index.js and call.
+
 Remember to add your actual product details, features, and styling to make it visually appealing. 
 
 
